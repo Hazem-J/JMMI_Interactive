@@ -267,6 +267,8 @@ tabPanel(strong("Partners"),
              column(width=12,align = "center", h5("Yemen Family Care Association (YFCA)"), img(src='0_yfca.jpg', height= "50px")),
              column(width=12,align = "center", h5("Yemen Shoreline Development (YSD)"), img(src='0_ysd.jpg', height= "50px")),
              column(width=12,align = "center", h5("Benevolence Coalition for Humanitarian Relief (BCHR)", icon("check", "fa-2x")), a(img(src='0_bchr.jpg', height= "50px"), target="_blank", href="http://bchr-ye.org/")),
+             column(width=12,align = "center", h5("International Rescure Committee (IRC)", icon("check", "fa-2x")), a(img(src='0_IRC.jpg', height= "50px"), target="_blank", href="https://www.rescue.org/")),
+
              p(),
              hr()
 
